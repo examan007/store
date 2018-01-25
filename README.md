@@ -1,9 +1,8 @@
 ## Store
 Basic store catalogue
 ## REST API
- ``` bash
 docs/REST API definition for store catalogue.pdf
-```## Dependency
+## Dependency
  1. Maven
  2. Postgresql
 ## Database
