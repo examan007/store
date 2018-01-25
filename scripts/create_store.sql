@@ -37,6 +37,7 @@ CREATE TABLE itemmap (
 CREATE INDEX uid_idx ON users (name);
 CREATE INDEX email_idx ON users (email);
 CREATE INDEX cat_idx ON categories (name);
+CREATE INDEX item_idx ON items (name);
 
 
 
