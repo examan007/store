@@ -3,8 +3,9 @@ Basic store catalogue
 ## REST API
 docs/REST API definition for store catalogue.pdf
 ## Dependency
- 1. Maven
- 2. Postgresql
+ 1. Java 8
+ 2. Maven
+ 3. Postgresql
 ## Database
 Presuming configured Postgresql with psql access by permitted particular user.
 Test database dump is found at scripts/dump_store.sql
